@@ -1,0 +1,32 @@
+.navbar-item{
+    color: #107695;
+    padding:10px; ;
+    transition: all 0.3s ease;
+    justify-content: space-around;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.navbar-item:hover{
+    color: #93bfcd; ;
+}
+.button-nav{
+    height: 50PX;
+    width: 100PX;
+    border-radius: 500px;
+    background-color: #0e405f;
+    color: #ffffff;
+
+}
+.button-nav:hover{
+    background-color:  #acd8e5;
+    color: black;
+}
+.image{
+    width: 350px;
+    height: 50px;
+
+}
+.color{
+    background-color: rgba(199, 213, 218, 0.7);
+}

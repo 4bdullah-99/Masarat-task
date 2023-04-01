@@ -1,0 +1,59 @@
+.head{
+    height: 100vh;
+    width: 200vh;
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://www.lifelineharbor.com/wp-content/uploads/2014/11/black-family.jpg");
+    z-index: -1;
+}
+.filter{
+    
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 100% ;
+    width: 100%;
+    z-index: 1;
+   
+    
+}
+.para{ 
+
+    color: #ffffff;
+    background-color:  transparent ;
+    position: relative;
+    top: 60%;
+    left: 15%;
+    text-align:left;
+    height: 500px;
+    width: 500px;
+   
+   
+}
+.button-im {
+    height: 75PX;
+    width: 500PX;
+    border-radius: 500px;
+    background-color: #0e405f;
+    color: #ffffff;
+    opacity: 0.9;
+
+}
+
+.button-im:hover {
+    background-color: #acd8e5;
+    color: black;
+    opacity: 0.9;
+}
+.dox{
+    font-size: 20px;
+    font-style: oblique;
+    
+}
+.doxe{
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+
